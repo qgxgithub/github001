@@ -10,6 +10,7 @@ package com.bjsxt.scalaspark;
 public class First {
     public static void main(String[] args) {
         System.out.println("Hello Word");
+        //增加注释
         System.out.println("Hello Word Java");
     }
 }
